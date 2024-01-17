@@ -2,6 +2,7 @@ import math
 import random
 
 
+
 def gen_sieve(sieve_size):
     sieve = [True] * sieve_size
     sieve[0] = False
